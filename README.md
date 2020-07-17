@@ -15,9 +15,9 @@
 <br />
 <br />
 
-Hi, I'm Allan a passionate self-taught software developer from Kenya.
+Hi, I'm a passionate self-taught software developer from Kenya.
 
-- 🔭 I’m currently working on hela()
+- 🔭 I’m currently working on hela(https://github.com/AllanM007/hela)
 - 🌱 I’m currently learning Golang
 
 **Languages and Tools:**  
