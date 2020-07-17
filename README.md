@@ -1,5 +1,4 @@
-### Hi there, I'm [Allan!](https://allanm007.github.io)
-👋.
+### Hi there, I'm [Allan!](https://allanm007.github.io)👋.
 
 <br/>
 <br/>
