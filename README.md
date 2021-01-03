@@ -5,7 +5,7 @@
 <a href="https://twitter.com/Muirurir_Allan">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/allan-muiruri-488ba1175/">
+<a href="https://www.linkedin.com/in/allan-muiruri/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.reddit.com/user/mwarangu_007">
