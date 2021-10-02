@@ -18,7 +18,7 @@
 Hi, I'm a passionate software developer from Kenya.
 
 - 🔭 I’m currently working on [hela](https://github.com/AllanM007/hela)
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang & Web3
 
 **Languages and Tools:**  
 
