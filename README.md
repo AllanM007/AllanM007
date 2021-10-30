@@ -15,9 +15,9 @@
 <br />
 <br />
 
-Hi, I'm a passionate software developer from Kenya.
+Hi, I'm a software developer from Nairobi,Kenya.
 
-- 🔭 I’m currently working on [hela](https://github.com/AllanM007/hela)
+- 🔭 I’m currently working on [hela](https://github.com/AllanM007/celo-gig)
 - 🌱 I’m currently learning Golang, Crypto & Web3
 
 **Languages and Tools:**  
