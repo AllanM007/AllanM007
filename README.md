@@ -17,7 +17,7 @@
 
 Hi, I'm a software developer from Nairobi,Kenya.
 
-- 🔭 I’m currently working on [hela](https://github.com/AllanM007/celo-gig)
+- 🔭 I’m currently working on [celo-gig](https://github.com/AllanM007/celo-gig)
 - 🌱 I’m currently learning Golang, Crypto & Web3
 
 **Languages and Tools:**  
