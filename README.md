@@ -18,7 +18,7 @@
 Hi, I'm a software developer from Nairobi,Kenya.
 
 - 🔭 I’m currently working on [celo-gig](https://github.com/AllanM007/celo-gig)
-- 🌱 I’m currently learning Golang, Solidity & Web3
+- 🌱 I’m currently learning Solidity & Web3
 
 **Languages and Tools:**  
 
