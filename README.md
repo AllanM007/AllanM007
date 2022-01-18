@@ -17,7 +17,7 @@
 
 Hi, I'm a software developer from Nairobi,Kenya.
 
-- 🔭 I’m currently working on [first-token](https://github.com/AllanM007/FirstToken)
+- 🔭 I’m currently working on [GammaSwap](https://github.com/AllanM007/GammaSwap)
 - 🌱 I’m currently learning Solidity & Web3
 
 **Languages and Tools:**  
