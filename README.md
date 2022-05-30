@@ -18,7 +18,7 @@
 Hi, I'm a software engineer from Nairobi,Kenya.
 
 - 🔭 I’m currently working on [GammaSwap](https://github.com/AllanM007/GammaSwap)
-- 🌱 I’m currently learning Solidity & Rust
+- 🌱 I’m currently learning Solidity & Ethereum
 
 **Languages and Tools:**  
 
