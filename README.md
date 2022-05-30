@@ -5,9 +5,9 @@
 <a href="https://twitter.com/0xAllan">
   <img align="left" alt="Twitter" width="22px" style="background:white;" src="https://allanm007.github.io/assets/img/twitterlogo.png" />
 </a>
-<a href="https://www.linkedin.com/in/allan-muiruri/">
+<!-- <a href="https://www.linkedin.com/in/allan-muiruri/">
   <img align="left" alt="Linkedin" width="22px" style="background:white;" src="https://allanm007.github.io/assets/img/linkedinlogo.png" />
-</a>
+</a> -->
 <a href="mailto:mwaranguallan345@gmail.com">
   <img align="left" alt="Mail" width="22px" style="background-color:white;" src="https://allanm007.github.io/assets/img/maillogo.png" />
 </a>
