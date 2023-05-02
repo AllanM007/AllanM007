@@ -15,10 +15,10 @@
 <br />
 <br />
 
-Hi, I'm a software engineer from Nairobi,Kenya.
+<!-- Hi, I'm a software engineer from Nairobi,Kenya.
 
 - 🔭 I’m currently working on [daoPOP](https://github.com/AllanM007/daoPOP)
-- 🌱 I’m currently learning Solidity & Ethereum
+- 🌱 I’m currently learning Solidity & Ethereum -->
 
 **Languages and Tools:**  
 
