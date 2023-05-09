@@ -20,9 +20,9 @@
 **Languages and Tools:**  
 
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
 <code><img height="26" background-color="#fff" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"></code>
 
 <!--
