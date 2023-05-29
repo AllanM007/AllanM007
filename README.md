@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on [daoPOP](https://github.com/AllanM007/daoPOP)
 - 🌱 I’m currently learning Solidity & Ethereum -->
 
-**Languages and Tools:**  
+**Tech Stack:**  
 
 <code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg"></code>
 <code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
