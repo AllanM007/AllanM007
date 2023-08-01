@@ -19,12 +19,12 @@
 
 **Tech Stack:**  
 
-<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg"></code>
-<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
-<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
-<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
 <code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"></code>
-<!-- <code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg"></code> -->
+<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
+<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg"></code>
+<!--<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg"></code>-->
 
 <!--
 **AllanM007/AllanM007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
