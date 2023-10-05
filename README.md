@@ -24,6 +24,8 @@
 <code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
 <code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
 <code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg"></code>
+<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker"></code>
+<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes"></code>
 <!--<code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg"></code>-->
 
 <!--
