@@ -25,7 +25,6 @@
 <code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></code>
 
 <!--
-**AllanM007/AllanM007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
