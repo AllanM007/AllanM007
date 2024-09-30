@@ -14,7 +14,7 @@
 
 <!-- Hi, I'm a software engineer from Nairobi,Kenya.
 
-- 🔭 I’m currently working on [daoPOP](https://github.com/AllanM007/daoPOP)
+- 🔭 I’m currently working on [snap](https://github.com/AllanM007/snap)
 - 🌱 I’m currently learning  -->
 
 **Tech Stack:**  
