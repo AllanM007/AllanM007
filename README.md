@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on [snap](https://github.com/AllanM007/snap)
 - 🌱 I’m currently learning  -->
 
-**Tech Stack:**  
+<!--**Tech Stack:** -->
 
 <!--code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"></code>
 <code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
