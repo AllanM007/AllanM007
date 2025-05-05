@@ -7,7 +7,6 @@
 </a>
 
 <br />
-<br />
 
 <!-- Hi, I'm a software engineer from Nairobi,Kenya.
 
